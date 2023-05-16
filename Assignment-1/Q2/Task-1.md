@@ -1,6 +1,6 @@
 
 # 2. Linux File Management:
-### Task 1
+## Task 1: File Permissions
 
 - Create a directory called "testdir" and change its ownership to your user account.
 - Create two files inside "testdir": "file1.txt" and "file2.txt".
@@ -15,6 +15,12 @@ account.
 
 
 
-<img width="960" alt="task1" src="https://github.com/shyamjp2002/Mind-Empowered/assets/75899937/0b657119-05cb-4df2-a3f5-eabd25f22c0b">
+<img width="900" alt="task1" src="https://github.com/shyamjp2002/Mind-Empowered/assets/75899937/0b657119-05cb-4df2-a3f5-eabd25f22c0b">
+
+
+
+
+
+
 
 
